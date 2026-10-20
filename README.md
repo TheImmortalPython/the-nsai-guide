@@ -29,3 +29,36 @@ This repository provides a complete, production-grade educational architecture f
   * Middleware verification via `pklm-sandbox` and the `pklm_sandbox` PyPI package.
   * Offline Field Tool Middleware (low-resource edge deployment).
   * Physical hardware containment via the Akasha Silicon / Akasha CIS-1 PCIe card concept.
+
+  ---
+
+## Interactive Code Playground (`/playground`)
+To put theory into practice, each module is paired with a runnable demonstration script located in the `playground/` directory. These scripts provide lightweight, hands-on examples of the core mechanisms taught across the curriculum:
+
+* **Module 1 (`module_1_demo.py`):** Demonstrates the structural shift from unconstrained probabilistic sampling to deterministic boundary enforcement.
+* **Module 2 (`module_2_demo.py`):** Simulates applying spatial boundary constraints (`-inf`) to raw logit vectors using FSM geometry.
+* **Module 3 (`module_3_demo.py`):** Implements Pāṇinian Kāraka role-based dependency filtering (*Kartā*, *Karma*, *Adhikaraṇa*).
+* **Module 4 (`module_4_demo.py`):** Shows core logit interception and negative infinity boundary masking using PyTorch/Transformers logic.
+* **Module 5 (`module_5_demo.py`):** Emulates zero-drift execution for offline field tool middleware.
+
+### Quickstart: How to Run the Playground
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/TheImmortalPython/the-nsai-guide.git
+```
+
+2. **Enter the directory:**
+```bash
+cd the-nsai-guide
+```
+
+3. **Run any module demonstration script:**
+
+```bash
+python playground/module_1_demo.py
+python playground/module_2_demo.py
+python playground/module_3_demo.py
+python playground/module_4_demo.py
+python playground/module_5_demo.py
+```
