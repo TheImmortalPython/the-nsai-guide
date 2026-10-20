@@ -1,7 +1,8 @@
 # The NSAI Guide: Non-Stochastic AI Architecture and Execution
 
-> **Enterprise Governance:** Managed under **TheImmortalPython Labs** (IP Incubator & Enterprise Governance).  
-> **Pioneered By:** Joshua St. Germain.
+> **Founder & Principal AI Architect:** Joshua St. Germain  
+> **Enterprise Governance & IP Incubator:** TheImmortalPython Labs (`theimmortalpythonlabs@proton.me`)  
+> **Ecosystem Core:** `pklm-core` | `pklm-sandbox` | `determinism-runtime-core`
 
 ---
 
