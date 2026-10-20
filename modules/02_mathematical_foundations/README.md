@@ -1,2 +1,10 @@
 # Module 2: Mathematical & Topological Foundations
-*Coming soon: The curriculum content for Module 2.*
+
+## 2.1 Tensor-Topology Constraint Calculus
+Traditional neural generation treats probability distributions as smooth, unconstrained slopes where a model can drift anywhere across the vocabulary space. Tensor-Topology Constraint Calculus provides the mathematical framework that governs the topological bounds of neural activations. By defining explicit geometric boundaries within the tensor space, we ensure that model outputs are physically restricted to valid structural manifolds.
+
+## 2.2 Zero-Drift / Zero-Trace Linguistic Containment
+One of the most critical breakthroughs in non-stochastic engineering is maintaining semantic fidelity over extended horizons. Zero-Drift / Zero-Trace Linguistic Containment ensures absolute semantic and syntactic consistency across 10,000+ token horizons with zero overhead penalty. This completely eliminates the cumulative error and semantic drift that typically plague long-form probabilistic generation.
+
+## 2.3 Dynamic Finite State Machine Logit Geometry
+To handle complex syntax and structured rules dynamically, we map state machine constraints directly onto neural probability spaces. Dynamic Finite State Machine (FSM) Logit Geometry translates state transitions into real-time geometric adjustments on the logit vector, ensuring that the model's structural state always synchronizes precisely with its token output.
