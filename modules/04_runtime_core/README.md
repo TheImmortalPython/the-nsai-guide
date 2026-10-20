@@ -1,2 +1,10 @@
 # Module 4: The Runtime & Interception Core
-*Coming soon: The curriculum content for Module 4.*
+
+## 4.1 Paninian Kāraka Logit Masking (pklm-core)
+Theory must meet execution at the token probability level. Paninian Kāraka Logit Masking (`pklm-core`) is the primary mechanism that intercepts model generation in real-time. By evaluating incoming logit vectors at step $t$, the system identifies unauthorized or out-of-bounds token paths before sampling occurs.
+
+## 4.2 Negative Infinity ($-\infty$) Vector Boundaries
+To ensure a model cannot select a forbidden token, `pklm-core` applies negative infinity ($-\infty$) as a hard mathematical boundary directly onto the logits. When a token's probability weight is set to $-\infty$, its resulting probability after softmax evaluation becomes absolute zero, physically eliminating token drift and unauthorized outputs.
+
+## 4.3 Asynchronous Production Orchestration
+Running deterministic checks at scale requires robust pipeline architecture. The Determinism Runtime Core (`determinism-runtime-core`) provides the production execution layer, featuring asynchronous request queuing, containerized API wrappers, and low-latency validation loops to ensure non-stochastic constraints operate seamlessly in production environments.
