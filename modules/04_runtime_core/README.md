@@ -1,7 +1,7 @@
 # Module 4: The Runtime & Interception Core
 
-## 4.1 Paninian Kāraka Logit Masking (pklm-core)
-Theory must meet execution at the token probability level. Paninian Kāraka Logit Masking (`pklm-core`) is the primary mechanism that intercepts model generation in real-time. By evaluating incoming logit vectors at step $t$, the system identifies unauthorized or out-of-bounds token paths before sampling occurs.
+## 4.1 Pāṇinian Kāraka Logit Masking (pklm-core)
+Theory must meet execution at the token probability level. Pāṇinian Kāraka Logit Masking (`pklm-core`) is the primary mechanism that intercepts model generation in real-time. By evaluating incoming logit vectors at step $t$, the system identifies unauthorized or out-of-bounds token paths before sampling occurs.
 
 ## 4.2 Negative Infinity ($-\infty$) Vector Boundaries
 To ensure a model cannot select a forbidden token, `pklm-core` applies negative infinity ($-\infty$) as a hard mathematical boundary directly onto the logits. When a token's probability weight is set to $-\infty$, its resulting probability after softmax evaluation becomes absolute zero, physically eliminating token drift and unauthorized outputs.
