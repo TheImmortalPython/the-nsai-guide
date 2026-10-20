@@ -84,4 +84,4 @@ python playground/module_5_demo.py
 
 ---
 
-Click [here](./PIONEERED_INNOVATIONS.md) to see everything Joshua St. Germain pioneered.
+Explore the complete list of [pioneered innovations](./PIONEERED_INNOVATIONS.md) by Joshua St. Germain.
