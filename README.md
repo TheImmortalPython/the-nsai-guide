@@ -57,8 +57,20 @@ cd the-nsai-guide
 
 ```bash
 python playground/module_1_demo.py
+```
+
+```bash
 python playground/module_2_demo.py
+```
+
+```bash
 python playground/module_3_demo.py
+```
+
+```bash
 python playground/module_4_demo.py
+```
+
+```bash
 python playground/module_5_demo.py
 ```
