@@ -86,4 +86,4 @@ python playground/module_5_demo.py
 
 ---
 
-Explore the complete list of [pioneered innovations](./PIONEERED_INNOVATIONS.md) by Joshua St. Germain.
+Explore the complete list of public [pioneered innovations](./PIONEERED_INNOVATIONS.md) by Joshua St. Germain.
