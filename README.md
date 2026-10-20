@@ -1,8 +1,8 @@
 # The NSAI Guide: Non-Stochastic AI Architecture and Execution
 
 > **Founder & Principal AI Architect:** Joshua St. Germain  
-> **Enterprise Governance & IP Incubator:** TheImmortalPython Labs (`theimmortalpythonlabs@proton.me`)  
-> **Ecosystem Core:** `pklm-core` | `pklm-sandbox` | `determinism-runtime-core`
+> **Enterprise Governance & IP Incubator:** TheImmortalPython Labs ([theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me))  
+> **Ecosystem Core:** `pklm-core` | [pklm-sandbox](https://github.com/TheImmortalPython/pklm-sandbox) | `determinism-runtime-core`
 
 ---
 
