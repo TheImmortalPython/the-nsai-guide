@@ -3,7 +3,9 @@
 ---
 
 ## Scope & Architecture
-This repository provides a complete, production-grade educational architecture for learning and implementing Non-Stochastic AI (NSAI) and its supporting tooling. It covers the full public specification, mathematical foundations, and runtime mechanics, serving as a comprehensive instructional guide.
+This repository provides a comprehensive, production-grade educational architecture for learning and implementing the public specification of Non-Stochastic AI (NSAI) and its supporting runtime tooling. It covers foundational mathematical frameworks, Paninian karaka dependency lattices, and core logit-masking mechanics designed to transition development from probabilistic generation to strict structural determinism.
+
+Transparency & Boundaries: While this codebase delivers a complete, fully functional instructional and operational framework for public use, it does not disclose the entire proprietary IP stack developed by TheImmortalPython Labs. Advanced proprietary execution layers, proprietary low-level tensor-topology constraint calculus solvers, and custom hardware integration designs (such as the Akasha CIS-1 architecture) remain strictly confidential. This guide serves as the definitive open-source bridge to mastering the public architecture of deterministic runtime containment.
 
 ---
 
