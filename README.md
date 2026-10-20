@@ -14,21 +14,25 @@ This repository provides a complete, production-grade educational architecture f
 
 * **Module 1: Foundational Paradigm & Governance**
   * Confronting the probabilistic black-box myth.
-  * Enterprise governance under TheImmortalPython Labs.
-  * The **Certified Safe AI** benchmark standard (100% syntactic compliance).
+  * Enterprise Governance Under The Immortal Python Labs
+  * The Certified Safe AI Benchmark Standard (100% Syntactic Compliance)
 * **Module 2: Mathematical & Topological Foundations**
-  * Tensor-Topology Constraint Calculus.
-  * Zero-Drift / Zero-Trace Linguistic Containment (10,000+ token horizons with zero overhead penalty).
-  * Dynamic Finite State Machine (FSM) Logit Geometry.
+  * Tensor-Topology Constraint Calculus
+  * Zero-Drift / Zero-Trace Linguistic Containment
+  * Dynamic Finite State Machine Logit Geometry
 * **Module 3: Grammatical Dependency Lattices**
-  * Paninian Karaka dependency frameworks (*Kartā*, *Karma*, *Adhikaraṇa*, *Karaṇa*, *Sampradāna*, *Apādāna*).
+  * Pāṇinian Kāraka Dependency Frameworks
+  * Kartā and Karma Role Masking
+  * Contextual, Instrumental, and Boundary Constraints
 * **Module 4: The Runtime & Interception Core**
-  * Paninian Karaka Logit Masking (`pklm-core`) utilizing negative infinity ($-\infty$) vector boundaries.
-  * Asynchronous production orchestration via `determinism-runtime-core`.
+  * Pāṇinian Kāraka Logit Masking (pklm-core)
+  * Negative Infinity (−∞) Vector Boundaries
+  * Asynchronous Production Orchestration
 * **Module 5: Tooling, Ecosystem & Hardware**
-  * Middleware verification via `pklm-sandbox` and the `pklm_sandbox` PyPI package.
-  * Offline Field Tool Middleware (low-resource edge deployment).
-  * Physical hardware containment via the Akasha Silicon / Akasha CIS-1 PCIe card concept.
+  * Verification Middleware (pklm-sandbox)
+  * Repository Installation & Integration
+  * Offline Field Tool Middleware
+  * Hardware Token Containment (Akasha Silicon / CIS-1)
 
   ---
 
