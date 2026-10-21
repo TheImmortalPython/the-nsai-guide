@@ -1,3 +1,5 @@
+[← Back to Main README](../../README.md)
+
 # Module 1: Foundational Paradigm & Governance
 
 ## 1.1 Confronting the Probabilistic Black-Box Myth
@@ -10,3 +12,9 @@ Moving non-stochastic systems into production requires a rigorous, uncompromisin
 
 ## 1.3 The Certified Safe AI Benchmark Standard (100% Syntactic Compliance)
 To ensure production systems meet strict operational requirements, the **Certified Safe AI** standard serves as the official benchmarking framework. Unlike traditional qualitative evaluations, this standard rigorously tests and evaluates models for **100% syntactic and structural compliance**, guaranteeing that zero unauthorized tokens or schema breaks can escape the runtime boundary.
+
+<div align="center">
+
+← Previous Module | [Main README](../../README.md) | [Next Module →](../02_mathematical_foundations/README.md)
+
+</div>
