@@ -1,3 +1,5 @@
+[← Back to Main README](../../README.md)
+
 # Module 2: Mathematical & Topological Foundations
 
 ## 2.1 Tensor-Topology Constraint Calculus
@@ -8,3 +10,9 @@ One of the most critical breakthroughs in non-stochastic engineering is maintain
 
 ## 2.3 Dynamic Finite State Machine Logit Geometry
 To handle complex syntax and structured rules dynamically, we map state machine constraints directly onto neural probability spaces. Dynamic Finite State Machine (FSM) Logit Geometry translates state transitions into real-time geometric adjustments on the logit vector, ensuring that the model's structural state always synchronizes precisely with its token output.
+
+<div align="center">
+
+[← Previous Module](../01_foundations/README.md) | [Main README](../../README.md) | [Next Module →](../03_paninian_karaka_lattices/README.md)
+
+</div>
