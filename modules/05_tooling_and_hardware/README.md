@@ -1,3 +1,5 @@
+[← Back to Main README](../../README.md)
+
 # Module 5: Tooling, Ecosystem & Hardware
 
 ## 5.1 Verification Middleware (pklm-sandbox)
@@ -15,3 +17,9 @@ Non-stochastic architectures are built to operate reliably even where cloud conn
 
 ## 5.4 Hardware Token Containment (Akasha Silicon / CIS-1)
 As deterministic constraints push toward the physical limit, software-level execution evolves into hardware integration. The physical hardware layer concept—exemplified by Akasha Silicon and the Akasha CIS-1 PCIe expansion card—represents the ultimate hardware-level evolution of token containment, enforcing deterministic boundaries directly at the silicon level.
+
+<div align="center">
+
+[← Previous Module](../04_runtime_core/README.md) | [Main README](../../README.md) | [Proceed to Interactive Code Playground](../../README.md#interactive-code-playground-playground)
+
+</div>
