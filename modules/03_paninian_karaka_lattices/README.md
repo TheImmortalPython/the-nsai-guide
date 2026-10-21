@@ -1,3 +1,5 @@
+[← Back to Main README](../../README.md)
+
 # Module 3: Grammatical Dependency Lattices
 
 ## 3.1 Pāṇinian Kāraka Dependency Frameworks
@@ -12,3 +14,9 @@ To enforce structural correctness during generation, we apply precise role-based
 Advanced grammatical containment requires mapping every environmental and relational boundary:
 * **Adhikaraṇa (Locus/Context Boundaries):** Enforces spatial, temporal, or logical context boundaries to keep generation anchored.
 * **Karaṇa, Sampradāna, and Apādāna:** Restricts instrumental mechanisms (*Karaṇa*), recipient targets (*Sampradāna*), and source/ablative separations (*Apādāna*) to maintain rigorous grammatical logic across the entire token sequence.
+
+<div align="center">
+
+[← Previous Module](../02_mathematical_foundations/README.md) | [Main README](../../README.md) | [Next Module →](../04_runtime_core/README.md)
+
+</div>
