@@ -1,3 +1,5 @@
+[← Back to Main README](../../README.md)
+
 # Module 4: The Runtime & Interception Core
 
 ## 4.1 Pāṇinian Kāraka Logit Masking (pklm-core)
@@ -8,3 +10,9 @@ To ensure a model cannot select a forbidden token, `pklm-core` applies negative 
 
 ## 4.3 Asynchronous Production Orchestration
 Running deterministic checks at scale requires robust pipeline architecture. The Determinism Runtime Core (`determinism-runtime-core`) provides the production execution layer, featuring asynchronous request queuing, containerized API wrappers, and low-latency validation loops to ensure non-stochastic constraints operate seamlessly in production environments.
+
+<div align="center">
+
+[← Previous Module](../03_paninian_karaka_lattices/README.md) | [Main README](../../README.md) | [Next Module →](../05_tooling_and_hardware/README.md)
+
+</div>
