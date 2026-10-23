@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/TIP_Logo_Square.jpg" width="150" alt="TIP Logo">
+  <img src="TIP_Logo_Square.jpg" width="150" alt="TIP Logo">
   
   <p><b>The NSAI Guide: Non-Stochastic AI Architecture and Execution</b></p>
 
