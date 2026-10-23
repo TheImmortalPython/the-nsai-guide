@@ -44,8 +44,8 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
   * Production Orchestration & Execution Core
 - **Module 5: Tooling, Packaging, Middleware & Hardware Ecosystem**
   * Verification Middleware (pklm-sandbox)
-  * Repository Installation & Integration
-  * Offline Field Tool Middleware
+    * Repository Installation & Integration
+    * Offline Field Tool Middleware
   * Hardware Token Containment Layer (Akasha Silicon / Akasha CIS-1)
 
 ---
