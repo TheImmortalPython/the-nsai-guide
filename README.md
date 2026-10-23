@@ -30,11 +30,6 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
   * Confronting the probabilistic black-box myth.
   * Enterprise Governance Under TheImmortalPython Labs (IP Incubator & Enterprise Governance)
   * Axiomatic States & Verifiable Guarantees:
-    * Zero-Entropy AI (Mathematical State of Absolute Structural Predictability & Zero Uncertainty)
-    * Provably Bounded AI (Formal Mathematical Proof of Execution Limits)
-    * Syntactically Invariant AI (Guaranteed Adherence Across Infinite Token Horizons)
-    * Hard-Constrained AI (Absolute Elimination of Probabilistic Drift via Negative Infinity Boundaries)
-    * Certified Safe AI (Benchmarking Standard for 100% Syntactic Compliance)
 - **Module 2: Mathematical & Topological Foundations**
   * Tensor-Topology Constraint Calculus
   * Zero-Drift / Zero-Trace Linguistic Containment (10,000+ Token Horizons with Zero Overhead Penalty)
@@ -45,7 +40,7 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
   * Contextual, Instrumental & Boundary Constraints
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
   * Pāṇinian Kāraka Logit Masking (PKLM Core / pklm-core)
-  * Negative Infinity ($-\infty$) Vector Boundaries
+    * Negative Infinity ($-\infty$) Vector Boundaries
   * Production Orchestration & Execution Core
 - **Module 5: Tooling, Packaging, Middleware & Hardware Ecosystem**
   * Verification Middleware (pklm-sandbox)
