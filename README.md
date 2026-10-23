@@ -41,8 +41,8 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
   * Dynamic Finite State Machine Logit Geometry
 - **Module 3: Grammatical Dependency Lattices**
   * Paninian Karaka Dependency Frameworks & Lattices
-  * Kartā (Agent Role Masking) and Karma (Goal/Target Mapping)
-  * Adhikaraṇa (Locus/Context Boundaries), Karaṇa, Sampradāna, and Apādāna (Instrumental, Recipient, & Ablative Constraints)
+  * Agent & Goal Mapping Mechanics
+  * Contextual, Instrumental & Boundary Constraints
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
   * Paninian Karaka Logit Masking (PKLM Core / `pklm-core`) Utilizing Negative Infinity ($-\infty$) as a Hard Boundary
   * Determinism Runtime Core (`determinism-runtime-core`) & Asynchronous Production Orchestration
