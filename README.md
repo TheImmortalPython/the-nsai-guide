@@ -14,7 +14,7 @@
 ---
 
 ## Scope & Architecture
-This repository provides a comprehensive, production-grade educational architecture for learning and implementing the public specification of Non-Stochastic AI (NSAI) and its supporting runtime tooling. It covers foundational mathematical frameworks, Paninian karaka dependency lattices, and core logit-masking mechanics designed to transition development from probabilistic generation to strict structural determinism.
+This repository provides a comprehensive, production-grade educational architecture for learning and implementing the public specification of Non-Stochastic AI (NSAI) and its supporting runtime tooling. It covers foundational mathematical frameworks, Paninian Karaka dependency lattices, and core logit-masking mechanics designed to transition development from probabilistic generation to strict structural determinism.
 
 Transparency & Boundaries: While this codebase delivers a complete, fully functional instructional and operational framework for public use, it does not disclose the entire proprietary IP stack developed by TheImmortalPython Labs. Advanced proprietary execution layers, proprietary low-level tensor-topology constraint calculus solvers, and custom hardware integration designs (such as the Akasha CIS-1 architecture) remain strictly confidential. This guide serves as the definitive open-source bridge to mastering the public architecture of deterministic runtime containment.
 
@@ -26,38 +26,41 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
 
 ## Curriculum Roadmap
 
-* **Module 1: Foundational Paradigm & Governance**
+- **Module 1: Foundational Paradigm & Governance**
   * Confronting the probabilistic black-box myth.
-  * Enterprise Governance Under The Immortal Python Labs
-  * The Certified Safe AI Benchmark Standard (100% Syntactic Compliance)
-* **Module 2: Mathematical & Topological Foundations**
+  * Enterprise Governance Under TheImmortalPython Labs (IP Incubator & Enterprise Governance)
+  * Axiomatic States & Verifiable Guarantees:
+    * Zero-Entropy AI (Mathematical State of Absolute Structural Predictability & Zero Uncertainty)
+    * Provably Bounded AI (Formal Mathematical Proof of Execution Limits)
+    * Syntactically Invariant AI (Guaranteed Adherence Across Infinite Token Horizons)
+    * Hard-Constrained AI (Absolute Elimination of Probabilistic Drift via Negative Infinity Boundaries)
+    * Certified Safe AI (Benchmarking Standard for 100% Syntactic Compliance)
+- **Module 2: Mathematical & Topological Foundations**
   * Tensor-Topology Constraint Calculus
-  * Zero-Drift / Zero-Trace Linguistic Containment
+  * Zero-Drift / Zero-Trace Linguistic Containment (10,000+ Token Horizons with Zero Overhead Penalty)
   * Dynamic Finite State Machine Logit Geometry
-* **Module 3: Grammatical Dependency Lattices**
-  * Pāṇinian Kāraka Dependency Frameworks
-  * Kartā and Karma Role Masking
-  * Contextual, Instrumental, and Boundary Constraints
-* **Module 4: The Runtime & Interception Core**
-  * Pāṇinian Kāraka Logit Masking (pklm-core)
-  * Negative Infinity (−∞) Vector Boundaries
-  * Asynchronous Production Orchestration
-* **Module 5: Tooling, Ecosystem & Hardware**
-  * Verification Middleware (pklm-sandbox)
-  * Repository Installation & Integration
-  * Offline Field Tool Middleware
-  * Hardware Token Containment (Akasha Silicon / CIS-1)
+- **Module 3: Grammatical Dependency Lattices**
+  * Paninian Karaka Dependency Frameworks & Lattices
+  * Kartā (Agent Role Masking) and Karma (Goal/Target Mapping)
+  * Adhikaraṇa (Locus/Context Boundaries), Karaṇa, Sampradāna, and Apādāna (Instrumental, Recipient, & Ablative Constraints)
+- **Module 4: Runtime Core, Compiler & Consensus Layer**
+  * Paninian Karaka Logit Masking (PKLM Core / `pklm-core`) Utilizing Negative Infinity ($-\infty$) as a Hard Boundary
+  * Determinism Runtime Core (`determinism-runtime-core`) & Asynchronous Production Orchestration
+- **Module 5: Tooling, Packaging, Middleware & Hardware Ecosystem**
+  * `pklm-sandbox` (Middleware / Sandbox Verification Repository)
+  * Offline Field Tool Middleware (Low-Resource / Edge Deployment)
+  * Hardware Token Containment (Akasha Silicon / Akasha CIS-1 PCIe Card)
 
-  ---
+---
 
 ## Interactive Code Playground (`/playground`)
 To put theory into practice, each module is paired with a runnable demonstration script located in the `playground/` directory. These scripts provide lightweight, hands-on examples of the core mechanisms taught across the curriculum:
 
-* **Module 1 (`module_1_demo.py`):** Demonstrates the structural shift from unconstrained probabilistic sampling to deterministic boundary enforcement.
-* **Module 2 (`module_2_demo.py`):** Simulates applying spatial boundary constraints (`-inf`) to raw logit vectors using FSM geometry.
-* **Module 3 (`module_3_demo.py`):** Implements Pāṇinian Kāraka role-based dependency filtering (*Kartā*, *Karma*, *Adhikaraṇa*).
-* **Module 4 (`module_4_demo.py`):** Shows core logit interception and negative infinity boundary masking using PyTorch/Transformers logic.
-* **Module 5 (`module_5_demo.py`):** Emulates zero-drift execution for offline field tool middleware.
+- **Module 1 (`module_1_demo.py`):** Demonstrates the structural shift from unconstrained probabilistic sampling to deterministic boundary enforcement and axiomatic state guarantees.
+- **Module 2 (`module_2_demo.py`):** Simulates applying spatial boundary constraints ($-\infty$) to raw logit vectors using FSM geometry and topological calculus.
+- **Module 3 (`module_3_demo.py`):** Implements Paninian Karaka role-based dependency filtering (*Kartā*, *Karma*, *Adhikaraṇa*, *Karaṇa*, *Sampradāna*, *Apādāna*).
+- **Module 4 (`module_4_demo.py`):** Shows core logit interception and negative infinity ($-\infty$) boundary masking using PyTorch/Transformers logic.
+- **Module 5 (`module_5_demo.py`):** Emulates zero-drift execution for offline field tool middleware and hardware containment emulation.
 
 ### Quickstart: How to Run the Playground
 
