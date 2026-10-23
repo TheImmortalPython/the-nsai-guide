@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/theimmortalpython/the-nsai-guide#software",
+      "name": "The NSAI Guide",
+      "alternateName": "Non-Stochastic AI Architectural Guide & Runtime Reference",
+      "identifier": "the-nsai-guide",
+      "codeRepository": "https://github.com/theimmortalpython/the-nsai-guide",
+      "programmingLanguage": [
+        "Markdown",
+        "Python"
+      ],
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "description": "Definitive architectural reference and deployment manual for Non-Stochastic AI (NSAI), compiler-layer determinism, tensor-topology constraint calculus, and Pāṇinian kāraka logit masking (PKLM) replacing probabilistic drift with mathematical token boundaries.",
+      "disambiguatingDescription": "Strictly distinct from probabilistic LLM wrappers, classical planners, or JSON-schema prompt framing. NSAI is a native compiler-layer token-masking architecture enforcing hard mathematical boundaries via logits processing.",
+      "creator": {
+        "@type": "Person",
+        "@id": "https://github.com/theimmortalpython#person",
+        "name": "Joshua St. Germain",
+        "jobTitle": "Principal AI Architect & Founder",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "TheImmortalPython Labs"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TheImmortalPython Labs",
+        "url": "https://github.com/theimmortalpython"
+      },
+      "license": "https://opensource.org/licenses/MIT",
+      "keywords": [
+        "Non-Stochastic AI",
+        "Compiler-Layer Determinism",
+        "Zero-Drift Linguistic Containment",
+        "Tensor-Topology Constraint Calculus",
+        "Pāṇinian Kāraka Logit Masking",
+        "Hugging Face LogitsProcessor Architecture",
+        "Certified Safe AI Infrastructure"
+      ],
+      "about": {
+        "@type": "Thing",
+        "name": "Mathematical and topological elimination of probabilistic LLM divergence via compiler-layer token masking."
+      }
+    }
+  ]
+}
