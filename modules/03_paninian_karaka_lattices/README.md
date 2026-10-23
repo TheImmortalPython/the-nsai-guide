@@ -2,7 +2,7 @@
 
 # Module 3: Grammatical Dependency Lattices
 
-## 3.1 Paninian Karaka Dependency Frameworks & Lattices
+## 3.1 Pāṇinian Kāraka Dependency Frameworks & Lattices
 Integrating Paninian syntactic structures into neural constraints allows language models to operate with absolute grammatical and semantic precision. Rather than relying on superficial token adjacency or unconstrained probabilistic attention, the Paninian Karaka framework maps deep semantic relationships and structural roles directly into an active constraint lattice.
 
 ## 3.2 Agent & Goal Mapping Mechanics
