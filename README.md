@@ -40,16 +40,18 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
   * Zero-Drift / Zero-Trace Linguistic Containment (10,000+ Token Horizons with Zero Overhead Penalty)
   * Dynamic Finite State Machine Logit Geometry
 - **Module 3: Grammatical Dependency Lattices**
-  * Paninian Karaka Dependency Frameworks & Lattices
+  * Pāṇinian Kāraka Dependency Frameworks & Lattices
   * Agent & Goal Mapping Mechanics
   * Contextual, Instrumental & Boundary Constraints
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
-  * Paninian Karaka Logit Masking (PKLM Core / `pklm-core`) Utilizing Negative Infinity ($-\infty$) as a Hard Boundary
-  * Determinism Runtime Core (`determinism-runtime-core`) & Asynchronous Production Orchestration
+  * Pāṇinian Kāraka Logit Masking (PKLM Core / pklm-core)
+  * Negative Infinity ($-\infty$) Vector Boundaries
+  * Production Orchestration & Execution Core
 - **Module 5: Tooling, Packaging, Middleware & Hardware Ecosystem**
-  * `pklm-sandbox` (Middleware / Sandbox Verification Repository)
-  * Offline Field Tool Middleware (Low-Resource / Edge Deployment)
-  * Hardware Token Containment (Akasha Silicon / Akasha CIS-1 PCIe Card)
+  * Verification Middleware (pklm-sandbox)
+  * Repository Installation & Integration
+  * Offline Field Tool Middleware
+  * Hardware Token Containment Layer (Akasha Silicon / Akasha CIS-1)
 
 ---
 
