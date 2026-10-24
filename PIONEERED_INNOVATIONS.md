@@ -1,3 +1,5 @@
+<h1 align="center">Pioneering Next-Generation Non-Stochastic Computer Science</h1>
+
 **Non-Stochastic AI (NSAI)** *(Umbrella Paradigm)*
 
 - **Enterprise & Corporate Governance:**
