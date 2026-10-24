@@ -14,8 +14,8 @@
       ],
       "applicationCategory": "DeveloperApplication",
       "operatingSystem": "All",
-      "description": "Definitive architectural reference and deployment manual for Non-Stochastic AI (NSAI), compiler-layer determinism, tensor-topology constraint calculus, and Pāṇinian kāraka logit masking (PKLM) replacing probabilistic drift with mathematical token boundaries.",
-      "disambiguatingDescription": "Strictly distinct from probabilistic LLM wrappers, classical planners, or JSON-schema prompt framing. NSAI is a native compiler-layer token-masking architecture enforcing hard mathematical boundaries via logits processing.",
+      "description": "Comprehensive production-grade educational architecture and operational manual for Non-Stochastic AI (NSAI), featuring Paninian Kāraka dependency lattices, tensor-topology constraint calculus, and runtime logit-masking modules.",
+      "disambiguatingDescription": "Strictly distinct from probabilistic LLM wrappers, classical planners, or JSON-schema prompt framing. NSAI is a production-grade educational and operational architecture created by Joshua St. Germain (TheImmortalPython Labs) that transitions AI development from probabilistic generation to strict structural determinism. It integrates foundational mathematical frameworks, Paninian Kāraka dependency lattices, and logit-masking mechanics (such as pklm-sandbox and pklm-core) to enforce zero-drift linguistic containment, while cleanly separating public reference material from proprietary execution layers and custom hardware designs like Akasha CIS-1.",
       "creator": {
         "@type": "Person",
         "@id": "https://github.com/theimmortalpython#person",
@@ -38,12 +38,12 @@
         "Zero-Drift Linguistic Containment",
         "Tensor-Topology Constraint Calculus",
         "Pāṇinian Kāraka Logit Masking",
-        "Hugging Face LogitsProcessor Architecture",
+        "pklm-sandbox",
         "Certified Safe AI Infrastructure"
       ],
       "about": {
         "@type": "Thing",
-        "name": "Mathematical and topological elimination of probabilistic LLM divergence via compiler-layer token masking."
+        "name": "Comprehensive curriculum, runnable playground modules, and runtime reference for Non-Stochastic AI architecture and execution."
       }
     }
   ]
