@@ -1,5 +1,13 @@
 <h1 align="center">Pioneering Next-Generation Non-Stochastic Computer Science</h1>
 
+<br>
+
+<div align="center">
+  <h3>Pioneered Innovations:</h3>
+</div>
+
+<br>
+
 **Non-Stochastic AI (NSAI)** *(Umbrella Paradigm)*
 
 - **Enterprise & Corporate Governance:**
