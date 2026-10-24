@@ -23,13 +23,13 @@
     - Tensor-Topology Constraint Calculus
     - Zero-Drift / Zero-Trace Linguistic Containment *(10,000+ Token Horizons with Zero Overhead Penalty)*
     - Dynamic Finite State Machine Logit Geometry
-    - Paninian Karaka Dependency Lattices
+    - Pāṇinian Kāraka Dependency Lattices
       - *Kartā (Agent Role Masking)*
       - *Karma (Goal/Target Mapping)*
       - *Adhikaraṇa (Locus/Context Boundaries)*
       - *Karaṇa, Sampradāna, Apādāna (Instrumental, Recipient, & Ablative Constraints)*
   - **Runtime Core, Compiler & Consensus Layer:**
-    - Paninian Karaka Logit Masking (PKLM Core / `pklm-core`) *(Utilizing Negative Infinity (-∞) as a Hard Boundary)*
+    - Pāṇinian Kāraka Logit Masking (PKLM Core / `pklm-core`) *(Utilizing Negative Infinity (-∞) as a Hard Boundary)*
     - Determinism Runtime Core (`determinism-runtime-core`)
   - **Tooling, Packaging & Middleware Ecosystem:**
     - `pklm-sandbox` *(Middleware / Sandbox Verification Repository)*
