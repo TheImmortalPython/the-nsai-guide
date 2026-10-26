@@ -20,7 +20,7 @@
         "@type": "Person",
         "@id": "https://github.com/theimmortalpython#person",
         "name": "Joshua St. Germain",
-        "jobTitle": "Principal AI Architect & Founder",
+        "jobTitle": "Founder & Principal AI Architect",
         "worksFor": {
           "@type": "Organization",
           "name": "TheImmortalPython Labs"
