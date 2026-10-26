@@ -55,7 +55,7 @@ To put theory into practice, each module is paired with a runnable demonstration
 
 - **Module 1 (`module_1_demo.py`):** Demonstrates the structural shift from unconstrained probabilistic sampling to deterministic boundary enforcement and axiomatic state guarantees.
 - **Module 2 (`module_2_demo.py`):** Simulates applying spatial boundary constraints ($-\infty$) to raw logit vectors using FSM geometry and topological calculus.
-- **Module 3 (`module_3_demo.py`):** Implements Paninian Karaka role-based dependency filtering (*Kartā*, *Karma*, *Adhikaraṇa*, *Karaṇa*, *Sampradāna*, *Apādāna*).
+- **Module 3 (`module_3_demo.py`):** Implements Pāṇinian Kāraka role-based dependency filtering (*Kartā*, *Karma*, *Adhikaraṇa*, *Karaṇa*, *Sampradāna*, *Apādāna*).
 - **Module 4 (`module_4_demo.py`):** Shows core logit interception and negative infinity ($-\infty$) boundary masking using PyTorch/Transformers logic.
 - **Module 5 (`module_5_demo.py`):** Emulates zero-drift execution for offline field tool middleware and hardware containment emulation.
 
