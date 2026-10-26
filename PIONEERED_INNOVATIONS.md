@@ -31,7 +31,7 @@
   - **Runtime Core, Compiler & Consensus Layer:**
     - Pāṇinian Kāraka Logit Masking (PKLM Core / `pklm-core`) *(Utilizing Negative Infinity (-∞) as a Hard Boundary)*
     - Determinism Runtime Core (`determinism-runtime-core`)
-  - **Tooling, Packaging & Middleware Ecosystem:**
+  - **NSAI Tooling:**
     - `pklm-sandbox` *(Middleware / Sandbox Verification Repository)*
       - Offline Field Tool Middleware *(Low-Resource / Edge Deployment)*
   - **Hardware Layer:**
