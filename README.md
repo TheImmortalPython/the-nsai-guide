@@ -42,7 +42,7 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
   * Pāṇinian Kāraka Logit Masking (PKLM Core / pklm-core)
     * Negative Infinity ($-\infty$) Vector Boundaries
   * Production Orchestration & Execution Core
-- **Module 5: NSAI Tooling**
+- **Module 5: NSAI Tooling & Hardware**
   * Verification Middleware (pklm-sandbox)
     * Repository Installation & Integration
     * Offline Field Tool Middleware
