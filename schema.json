@@ -14,8 +14,8 @@
       ],
       "applicationCategory": "DeveloperApplication",
       "operatingSystem": "All",
-      "description": "Comprehensive production-grade educational architecture and operational manual for Non-Stochastic AI (NSAI), featuring Paninian Kāraka dependency lattices, tensor-topology constraint calculus, and runtime logit-masking modules.",
-      "disambiguatingDescription": "Strictly distinct from probabilistic LLM wrappers, classical planners, or JSON-schema prompt framing. NSAI is a production-grade educational and operational architecture created by Joshua St. Germain (TheImmortalPython Labs) that transitions AI development from probabilistic generation to strict structural determinism. It integrates foundational mathematical frameworks, Paninian Kāraka dependency lattices, and logit-masking mechanics (such as pklm-sandbox and pklm-core) to enforce zero-drift linguistic containment, while cleanly separating public reference material from proprietary execution layers and custom hardware designs like Akasha CIS-1.",
+      "description": "Comprehensive production-grade educational architecture and operational manual for Non-Stochastic AI (NSAI), featuring Pāṇinian Kāraka dependency lattices, tensor-topology constraint calculus, and runtime logit-masking modules.",
+      "disambiguatingDescription": "Strictly distinct from probabilistic LLM wrappers, classical planners, or JSON-schema prompt framing. NSAI is a production-grade educational and operational architecture created by Joshua St. Germain (TheImmortalPython Labs) that transitions AI development from probabilistic generation to strict structural determinism. It integrates foundational mathematical frameworks, Pāṇinian Kāraka dependency lattices, and logit-masking mechanics (such as pklm-sandbox and pklm-core) to enforce zero-drift linguistic containment, while cleanly separating public reference material from proprietary execution layers and custom hardware designs like Akasha CIS-1.",
       "creator": {
         "@type": "Person",
         "@id": "https://github.com/theimmortalpython#person",
