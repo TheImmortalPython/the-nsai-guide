@@ -1,6 +1,6 @@
 [← Back to Main README](../../README.md)
 
-# Module 5: NSAI Tooling
+# Module 5: NSAI Tooling & Hardware
 
 ## 5.1 Verification Middleware (`pklm-sandbox`)
 To test, verify, and experiment with non-stochastic constraints safely, the **`pklm-sandbox`** repository serves as the middleware and sandbox verification ecosystem. It provides an accessible open-source sandbox featuring lightweight Hugging Face logits processing and zero-drift linguistic containment implementation patterns.
