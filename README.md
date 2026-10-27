@@ -1,7 +1,7 @@
 <div align="center">
   <img src="TIP_Logo_Square.jpg" width="150" alt="TIP Logo">
   
-  <p><b>The NSAI Guide: Non-Stochastic AI Architecture and Execution</b></p>
+  <p><h1>The NSAI Guide:<br>Non-Stochastic AI Architecture and Execution</h1></p>
 
   <p>
     <a href="https://github.com/TheImmortalPython/the-nsai-guide/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="License: MIT"></a>
