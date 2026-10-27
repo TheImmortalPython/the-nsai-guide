@@ -59,7 +59,7 @@ To put theory into practice, each module is paired with a runnable demonstration
 - **Module 4 (`module_4_demo.py`):** Shows core logit interception and negative infinity ($-\infty$) boundary masking using PyTorch/Transformers logic.
 - **Module 5 (`module_5_demo.py`):** Emulates zero-drift execution for offline field tool middleware and hardware containment emulation.
 
-### Quickstart: How to Run the Playground
+### How to Run the Playground
 
 1. **Clone the repository:**
 ```bash
