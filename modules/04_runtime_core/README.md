@@ -11,6 +11,9 @@ To ensure a model cannot select a forbidden or unvalidated token under any stoch
 ## 4.2 Production Orchestration & Execution Core
 Running deterministic checks at scale in production requires robust pipeline architecture. The **Determinism Runtime Core (`determinism-runtime-core`)** serves as the compiler, execution, and orchestration layer. It provides asynchronous request queuing, containerized API wrappers, and low-latency validation loops to ensure non-stochastic constraints operate seamlessly across high-throughput production environments.
 
+## 4.3 Runtime Execution Contracts
+To explore the precise architectural boundary between upstream semantic role binding and step-by-step token containment during decoding, read the **[Architectural Deep Dive: The Interpretation Contract vs. The Enforcement Contract](./interpretation_vs_enforcement.md)** (also referenced in Module 3).
+
 <div align="center">
 
 [← Previous Module](../03_paninian_karaka_lattices/README.md) | [Main README](../../README.md) | [Next Module →](../05_tooling_and_hardware/README.md)
