@@ -102,6 +102,7 @@ For an introductory Show and Tell post, **the first two rows are probably enough
 
 <details>
   <summary><b>The public modules and a possible role-to-token interface</b></summary>
+
 ### What is visible, and what remains a conditional interface
 
 In the public `playground/module_3_demo.py`, candidates already have labels such as `Agent`, `Target`, and `Locus`. Filtering those candidates by an active label shows how a symbolic decision can reduce a candidate set. It does not show automatic role labeling from unrestricted natural language, and the three demonstrated categories should not be described as a tested implementation of all six Kāraka roles.
@@ -145,6 +146,7 @@ A further column could indicate whether the current prefix still has *any comple
 
 <details>
   <summary><b>Independent experiments, controls, and what the measurements mean</b></summary>
+
 ### Why the toy was intentionally small
 
 The toy used a tiny vocabulary, three illustrative fields, and two people. Exhaustive enumeration found four schema-valid completions, two with distinct participants, one with the correct supplied binding, and one wrong completion with an inverted supplied binding. It also included token fragments spanning boundaries. This tests a **finite acceptance language**, not language comprehension.
@@ -181,6 +183,7 @@ For a trace-based demonstration, record the selected event, role input, tokenize
 
 <details>
   <summary><b>Kāraka, predicate meaning, and event scope</b></summary>
+
 ### Keep the project’s terms while distinguishing different analyses
 
 The public documentation discusses the familiar role names `Kartā`, `Karma`, `Karaṇa`, `Sampradāna`, `Apādāna`, and `Adhikaraṇa`, with an explanatory vocabulary around agency, target, instrument, recipient, source, and locus. Those labels are useful as an organizing scheme, but assigning them is not generally equivalent to labeling the first two people in an English sentence as sender and recipient. The [Pāṇinian syntactico-semantic relations paper](https://aclanthology.org/W19-7724/) and a [cross-framework study of meaning representations](https://aclanthology.org/2020.cl-3.3/) are useful context on why role inventories depend on the chosen grammatical and semantic conventions.
@@ -219,6 +222,7 @@ I would regard this as a **modeling choice to expose**, not a reason to reject h
 
 <details>
   <summary><b>Runtime contracts: token boundaries, termination, and determinism</b></summary>
+
 ### A mask is one step in a stateful protocol
 
 An actual generator repeatedly calculates admissible next tokens, selects one, commits it to an evolving state, and eventually ends or declines to continue. The mask may be locally correct while the overall output fails because the constraint state is stale, the tokenizer splits a meaningful unit unexpectedly, a required continuation becomes impossible, or the system stops too early. These are general implementation boundaries, **not observed failures of NSAI**.
@@ -271,6 +275,7 @@ These are optional regression tests, not requirements for an introductory guide.
 
 <details>
   <summary><b>Related work and optional routes for a future reader</b></summary>
+
 ### Compare the boundary being guaranteed, not project labels
 
 There are useful predecessors and adjacent designs, but they answer different questions. [Transformers prefix constraints](https://huggingface.co/docs/transformers/v4.56.2/en/internal/generation_utils) expose a generic next-token interface. [PICARD](https://aclanthology.org/2021.emnlp-main.779/) shows incremental parsing to reject structurally inadmissible continuations in text-to-SQL generation. [DOMINO](https://proceedings.mlr.press/v235/beurer-kellner24a.html) studies token-aligned grammatical constraints and the cost of applying them. [llguidance](https://github.com/guidance-ai/llguidance/blob/main/parser/README.md) and [XGrammar](https://xgrammar.mlc.ai/docs/latest/api/python/grammar_matcher.html) are concrete sources for stateful token-mask interfaces. [ChopChop](https://doi.org/10.1145/3776708) explores programmable semantic restrictions for generated programs. None is automatically equivalent to Kāraka-based semantic role inference from unrestricted natural language.
