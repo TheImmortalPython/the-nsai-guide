@@ -95,6 +95,11 @@ python playground/module_5_demo.py
 
 ---
 
+## Community Feedback & Architectural Reviews
+External technical reviews, architectural deep-dives, and community-driven discussions regarding the guide are archived in our [Community Feedback Directory](./community-feedback/README.md). This includes peer reviews analyzing public/private runtime boundaries, decoding contracts, and validation frameworks.
+
+---
+
 > **Founder & Principal AI Architect:** Joshua St. Germain  
 > **Enterprise Governance & IP Incubator:** TheImmortalPython Labs ([theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me))  
 > **Repositories:** `pklm-core` (Private) | [pklm-sandbox](https://github.com/TheImmortalPython/pklm-sandbox) | `determinism-runtime-core` (Private) | `the-nsai-guide`
