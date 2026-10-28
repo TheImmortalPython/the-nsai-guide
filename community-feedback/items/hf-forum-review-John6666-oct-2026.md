@@ -1,4 +1,4 @@
-# Community Feedback: John6666 (Hugging Face Forums — Show and Tell)
+<h1>Community Feedback: John6666 (Hugging Face Forums — Show and Tell)</h1>
 
 **Reviewer:** `John6666`  
 **Source:** [Hugging Face Community Forums (Show and Tell)](https://discuss.huggingface.co/t/the-nsai-guide-non-stochastic-ai-architecture-and-execution/191033)  
@@ -7,7 +7,7 @@
 
 ---
 
-### John6666:
+<h2>John6666:</h2>
 
 I took a quick look at the public implementation and ran a few small experiments:
 
