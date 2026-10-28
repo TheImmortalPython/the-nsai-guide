@@ -1,6 +1,6 @@
 [← Back to Main README](../README.md)
 
-# Community Feedback & Architectural Reviews
+# Community Feedback Directory
 
 This directory archives external technical peer reviews, discussions, and community-driven insights regarding **The NSAI Guide**. Individual feedback documents and author responses are stored in the [`items/`](./items/) subfolder.
 
