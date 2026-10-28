@@ -1,4 +1,4 @@
-[← Back to Community Feedback README](../CHANGELOG.md)
+[← Back to Community Feedback README](CHANGELOG.md)
 
 # Community Feedback Changelog
 
