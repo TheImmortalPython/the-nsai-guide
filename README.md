@@ -38,10 +38,12 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
   * Pāṇinian Kāraka Dependency Frameworks & Lattices
   * Agent & Goal Mapping Mechanics
   * Contextual, Instrumental & Boundary Constraints
+  * The Bridge to Runtime Execution
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
   * Pāṇinian Kāraka Logit Masking (PKLM Core / pklm-core)
     * Negative Infinity ($-\infty$) Vector Boundaries
   * Production Orchestration & Execution Core
+  * Runtime Execution Contracts
 - **Module 5: NSAI Tooling & Hardware**
   * Verification Middleware (pklm-sandbox)
     * Repository Installation & Integration
