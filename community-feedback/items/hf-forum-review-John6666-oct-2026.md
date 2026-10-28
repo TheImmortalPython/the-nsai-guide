@@ -9,7 +9,22 @@
 
 ---
 
-<h2>John6666:</h2>
+## 1. Author Analysis & Architectural Impact
+* **Validity of Critique:** High. `John6666` correctly identified a critical pedagogical and architectural distinction: logit-masking engines are strictly execution enforcement mechanisms. They are mathematically rigorous ($-\infty$ boundaries), but semantically neutral—meaning they will enforce whatever role binding is passed to them, even if the upstream interpreter made an error.
+* **Curricular Resolution:** Created a dedicated architectural deep-dive document (`modules/04_runtime_core/interpretation_vs_enforcement.md`) and cross-linked it bidirectionally between Module 3 (`modules/03_paninian_karaka_lattices/README.md`) and Module 4 (`modules/04_runtime_core/README.md`).
+
+## 2. Author Response to Reviewer
+> *"You've hit on the exact nuance that separates Non-Stochastic AI (NSAI) pipeline design from standard constrained generation wrappers: the decoder is a strict mechanical enforcer, not an interpreter of intent. We've incorporated this exact distinction into a new architectural deep-dive (`interpretation_vs_enforcement.md`) linking Modules 3 and 4 to ensure developers clearly separate the upstream Interpretation Contract from the downstream Enforcement Contract. Excellent catch!"*
+
+---
+
+<div align="center">
+  
+### Original Feedback (Verbatim):
+
+<br>
+
+</div>
 
 I took a quick look at the public implementation and ran a few small experiments:
 
