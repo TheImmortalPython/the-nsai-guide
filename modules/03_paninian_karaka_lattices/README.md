@@ -20,8 +20,6 @@ Advanced grammatical containment requires mapping every environmental, relationa
 
 Together, these lattices maintain rigorous grammatical logic and zero-drift structural execution across the entire token sequence.
 
----
-
 ## 3.4 The Bridge to Runtime Execution
 To see how these semantic role bindings are handed off and mathematically enforced as allowlists during autoregressive decoding, see the **[Architectural Deep Dive: The Interpretation Contract vs. The Enforcement Contract](../04_runtime_core/interpretation_vs_enforcement.md)**.
 
