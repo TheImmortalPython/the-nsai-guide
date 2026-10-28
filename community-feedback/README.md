@@ -1,4 +1,4 @@
-[← Back to Main README](../../README.md)
+[← Back to Main README](../README.md)
 
 # Community Feedback & Architectural Reviews
 
