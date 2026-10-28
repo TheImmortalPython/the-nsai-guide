@@ -9,16 +9,46 @@
 
 ---
 
-## 1. Author Analysis & Architectural Impact
-* **Validity of Critique:** High. `John6666` correctly identified a critical pedagogical and architectural distinction: logit-masking engines are strictly execution enforcement mechanisms. They are mathematically rigorous ($-\infty$ boundaries), but semantically neutral—meaning they will enforce whatever role binding is passed to them, even if the upstream interpreter made an error.
-* **Curricular Resolution:** Created a dedicated architectural deep-dive document (`modules/04_runtime_core/interpretation_vs_enforcement.md`) and cross-linked it bidirectionally between Module 3 (`modules/03_paninian_karaka_lattices/README.md`) and Module 4 (`modules/04_runtime_core/README.md`).
+### Author Analysis, Commentary, and Integration (Joshua St. Germain)
 
-## 2. Author Response to Reviewer
-> *"You've hit on the exact nuance that separates Non-Stochastic AI (NSAI) pipeline design from standard constrained generation wrappers: the decoder is a strict mechanical enforcer, not an interpreter of intent. We've incorporated this exact distinction into a new architectural deep-dive (`interpretation_vs_enforcement.md`) linking Modules 3 and 4 to ensure developers clearly separate the upstream Interpretation Contract from the downstream Enforcement Contract. Excellent catch!"*
+John6666’s peer review provides a crucial, highly rigorous articulation of an architectural distinction that is frequently conflated in constrained generation literature: the fundamental boundary between the **Interpretation Contract** and the **Enforcement Contract**.
+
+### Validity of Critique
+**Rating: High.** John6666 correctly identified a critical pedagogical and architectural distinction: logit-masking engines are strictly execution enforcement mechanisms. They are mathematically rigorous ($-\infty$ boundaries), but semantically neutral—meaning they will faithfully enforce whatever constraint vector or role binding is passed to them, even if the upstream interpreter made an error.
 
 ---
 
+### The Two Runtime Contracts
+
+1. **The Interpretation Contract (Semantic Role Binding):**  
+   The process of mapping unstructured natural language inputs into structured event predicates and Kāraka role assignments (e.g., determining from *"Alice sent the red parcel to Bob"* that $\text{Kartā} = \text{Alice}$, $\text{Karma} = \text{red parcel}$, and $\text{Sampradāna} = \text{Bob}$).
+
+2. **The Enforcement Contract (Logit Masking Containment):**  
+   The process of taking an accepted role binding and applying hard logit masks ($-\infty$ boundaries) during autoregressive decoding to guarantee that no prohibited token IDs are sampled.
+
+---
+
+### Key Takeaways for NSAI Architecture
+
+* **Mask Neutrality:** A hard logit mask is semantically neutral; it enforces whatever constraint vector it receives with absolute mathematical rigidity. If an upstream parser or model produces an inverted or incorrect role binding (e.g., assigning $\text{Kartā} = \text{Bob}$), the enforcement engine will faithfully enforce that incorrect binding.
+* **Separation of Validation Gates:** Non-Stochastic AI (NSAI) architecture intentionally treats semantic role inference and structural token containment as separate, decoupled validation gates.
+* **Public/Private Runtime Bridge:** Public pedagogical implementations (`pklm-sandbox`) demonstrate operational token containment mechanics (`LogitsProcessor`), while enterprise execution layers (`pklm-core`) handle dynamic heuristic compilation and stateful Kāraka lattice transitions.
+
+---
+
+### Curricular Resolution
+
+Created a dedicated architectural deep-dive document (`modules/04_runtime_core/interpretation_vs_enforcement.md`) and cross-linked it bidirectionally between Module 3 (`modules/03_paninian_karaka_lattices/README.md`) and Module 4 (`modules/04_runtime_core/README.md`).
+
+---
+
+### Author Response to Reviewer
+
+> "You've hit on the exact nuance that separates Non-Stochastic AI (NSAI) pipeline design from standard constrained generation wrappers: the decoder is a strict mechanical enforcer, not an interpreter of intent. We've incorporated this exact distinction into a new architectural deep-dive (`interpretation_vs_enforcement.md`) linking Modules 3 and 4 to ensure developers clearly separate the upstream Interpretation Contract from the downstream Enforcement Contract. Excellent catch!"
+
 <div align="center">
+
+---
   
 ### Original Feedback (Verbatim):
 
