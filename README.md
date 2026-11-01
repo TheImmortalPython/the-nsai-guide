@@ -16,7 +16,10 @@
 ---
 
 ## Scope & Architecture
-This repository provides a comprehensive, production-grade educational architecture for learning and implementing the public specification of Non-Stochastic AI (NSAI) and its supporting runtime tooling. It covers foundational mathematical frameworks, Pāṇinian Kāraka dependency lattices, and core logit-masking mechanics designed to transition development from probabilistic generation to strict structural determinism.
+This repository provides a comprehensive, production-grade educational architecture for learning and implementing the public specification of Non-Stochastic AI (NSAI) and its supporting runtime tooling. It covers foundational mathematical frameworks, Pāṇinian Kāraka dependency lattices, and core logit-masking mechanics designed to transition development from probabilistic generation to strict structural determinism—**providing the immutable architectural guardrails required for safe, drift-free Recursive Self-Improvement (RSI).**
+
+> **Core Architectural Thesis: Guardrails for Recursive Self-Improvement**  
+> Unconstrained probabilistic architectures cannot safely undergo autonomous code refinement or recursive self-improvement due to compounding logit drift and semantic collapse. Non-Stochastic AI solves this by decoupling fluid, learning weight adaptations (the **Interpretation Contract**) from an immutable downstream enforcement layer (`pklm-core`). By locking token logits against formal Pāṇinian Kāraka invariants, the system ensures that self-modifying execution paths never breach logical, syntactic, or safety boundaries.
 
 Transparency & Boundaries: While this codebase delivers a complete, fully functional instructional and operational framework for public use, it does not disclose the entire proprietary IP stack developed by TheImmortalPython Labs. Advanced proprietary execution layers, proprietary low-level tensor-topology constraint calculus solvers, and custom hardware integration designs (such as the Akasha CIS-1 architecture) remain strictly confidential. This guide serves as the definitive open-source bridge to mastering the public architecture of deterministic runtime containment.
 
