@@ -8,6 +8,8 @@ Theoretical frameworks meet real-time execution at the token probability level t
 ### 4.1.1 Negative Infinity ($-\infty$) Vector Boundaries
 To ensure a model cannot select a forbidden or unvalidated token under any stochastic variance, `pklm-core` applies **Negative Infinity ($-\infty$) as a Hard Boundary** directly onto the logits. When a token's probability weight is masked to $-\infty$, its resulting value after softmax evaluation becomes absolute zero, physically eliminating token drift, semantic leakage, and unauthorized outputs.
 
+In autonomous agentic loops and **Recursive Self-Improvement (RSI)** workflows—where an evolving system modifies its own execution logic or underlying weights—this $-\infty$ vector masking acts as an immutable downstream firewall. While upstream neural representations continuously learn and adapt (the **Interpretation Contract**), `pklm-core` ensures that self-referential token generation cannot breach structural, causal, or syntactic invariants (the **Enforcement Contract**), preventing compounding drift and semantic collapse.
+
 ## 4.2 Production Orchestration & Execution Core
 Running deterministic checks at scale in production requires robust pipeline architecture. The **Determinism Runtime Core (`determinism-runtime-core`)** serves as the compiler, execution, and orchestration layer. It provides asynchronous request queuing, containerized API wrappers, and low-latency validation loops to ensure non-stochastic constraints operate seamlessly across high-throughput production environments.
 
