@@ -100,7 +100,7 @@ python playground/module_5_demo.py
 ---
 
 ## Community Feedback & Architectural Reviews
-External technical reviews, architectural deep-dives, and community-driven discussions regarding the guide are archived in our [Community Feedback Directory](./community-feedback/README.md). This includes the feedback change log tracking community inputs and architectural revisions. 
+External technical reviews, architectural deep-dives, and community-driven discussions regarding the guide are archived in our [Community Feedback Directory](./community-feedback/README.md). This includes the feedback change log tracking community inputs and revisions to the guide.
 
 ---
 
