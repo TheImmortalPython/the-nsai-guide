@@ -23,7 +23,11 @@ This repository provides a comprehensive, production-grade educational architect
 
 Click [here](RSI.md) to see how `pklm-core` directly applies to the RSI paradigm.
 
+<br>
+
 Transparency & Boundaries: While this codebase delivers a complete, fully functional instructional and operational framework for public use, it does not disclose the entire proprietary IP stack developed by TheImmortalPython Labs. Advanced proprietary execution layers, proprietary low-level tensor-topology constraint calculus solvers, and custom hardware integration designs (such as the Akasha CIS-1 architecture) remain strictly confidential. This guide serves as the definitive open-source bridge to mastering the public architecture of deterministic runtime containment.
+
+<br>
 
 <div align="center">
   <p><strong>Quick Start:</strong> Proceed to <a href="./modules/01_foundations/README.md">Module 1: Foundational Paradigm & Governance</a></p>
