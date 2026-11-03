@@ -120,6 +120,14 @@ TheImmortalPython Labs infrastructure portfolio is available for strategic trans
 
 ---
 
+## Developer Adoption & Repository Traction
+
+Active developer clone velocity and unique cloner engagement across `the-nsai-guide` as of **November 3, 2026**:
+
+![Developer Adoption & Repository Traction](docs/metrics/git-clones-2026-11-03.png)
+
+---
+
 > **Founder & Principal AI Architect:** Joshua St. Germain  
 > **Enterprise Governance & IP Incubator:** TheImmortalPython Labs ([theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me))  
 > **Repositories:** `pklm-core` (Private) | [pklm-sandbox](https://github.com/TheImmortalPython/pklm-sandbox) | `determinism-runtime-core` (Private) | `the-nsai-guide`
