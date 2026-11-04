@@ -35,10 +35,7 @@
       - *Adhikaraṇa (Locus/Context Boundaries)*
       - *Karaṇa, Sampradāna, Apādāna (Instrumental, Recipient, & Ablative Constraints)*
   - **Runtime Core, Compiler & Consensus Layer:**
-    - Pāṇinian Kāraka Logit Masking (PKLM Core / `pklm-core`) *(Utilizing Negative Infinity (-∞) as a Hard Boundary)*
+    - Pāṇinian Kāraka Logit Masking (PKLM Core / `pklm-core`)
     - Determinism Runtime Core (`determinism-runtime-core`)
-  - **NSAI Tooling:**
-    - `pklm-sandbox` *(Middleware / Sandbox Verification Repository)*
-      - Offline Field Tool Middleware *(Low-Resource / Edge Deployment)*
   - **Hardware Layer:**
     - Akasha Silicon / Akasha CIS-1 *(Hardware Token Containment PCIe Card)*
