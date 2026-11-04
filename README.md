@@ -48,6 +48,9 @@ Transparency & Boundaries: While this codebase delivers a complete, fully functi
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
   * Pāṇinian Kāraka Logit Masking (PKLM Core / pklm-core)
     * Negative Infinity ($-\infty$) Vector Boundaries
+  * Deterministic Agent Architecture & Intent Routing
+    * Hybrid Execution: Dynamic Switching (Probabilistic Ideation vs. PKLM Masking)
+    * Pre-Emission Verification Loops: Under-the-Hood Candidate Validation & Zero-Drift Emission
   * Production Orchestration & Execution Core
   * Runtime Execution Contracts
 - **Module 5: NSAI Tooling & Hardware**
@@ -64,7 +67,7 @@ To put theory into practice, each module is paired with a runnable demonstration
 - **Module 1 (`module_1_demo.py`):** Demonstrates the structural shift from unconstrained probabilistic sampling to deterministic boundary enforcement and axiomatic state guarantees.
 - **Module 2 (`module_2_demo.py`):** Simulates applying spatial boundary constraints ($-\infty$) to raw logit vectors using FSM geometry and topological calculus.
 - **Module 3 (`module_3_demo.py`):** Implements Pāṇinian Kāraka role-based dependency filtering (*Kartā*, *Karma*, *Adhikaraṇa*, *Karaṇa*, *Sampradāna*, *Apādāna*).
-- **Module 4 (`module_4_demo.py`):** Shows core logit interception and negative infinity ($-\infty$) boundary masking using PyTorch/Transformers logic.
+- **Module 4 (`module_4_demo.py`):** Demonstrates core logit interception, negative infinity ($-\infty$) boundary masking using PyTorch/Transformers logic, and dynamic intent-routing between probabilistic generation and deterministic `pklm-core` containment.
 - **Module 5 (`module_5_demo.py`):** Emulates zero-drift execution for offline field tool middleware and hardware containment emulation.
 
 ### How to Run the Playground
