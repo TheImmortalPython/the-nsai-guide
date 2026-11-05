@@ -119,13 +119,6 @@ External technical reviews, architectural deep-dives, and community-driven discu
 
 ---
 
-## Strategic Acquisition & Release Notice
-TheImmortalPython Labs infrastructure portfolio is available for strategic transaction at a **$500,000,000 USD** anchor valuation (with enterprise capacity worth up to billions) under two release models:
-- **Private Enterprise Acquisition:** Direct transfer of exclusive IP rights and full proprietary control.
-- **Public Open-Source Release:** Buyout funding via an industry consortium or grant foundation to place the architectural stack into the public domain.
-
----
-
 > **Founder & Principal AI Architect:** Joshua St. Germain  
 > **Enterprise Governance & IP Incubator:** TheImmortalPython Labs ([theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me))  
 > **Repositories:** `pklm-core` (Private) | [pklm-sandbox](https://github.com/TheImmortalPython/pklm-sandbox) | `determinism-runtime-core` (Private) | `the-nsai-guide`
