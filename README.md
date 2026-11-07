@@ -1,4 +1,9 @@
 <div align="center">
+⚠️ Notice: This repository is currently undergoing active updates. Content, code, or documentation may be temporarily inaccurate, incomplete, or subject to sudden changes.
+</div>
+<br>
+
+<div align="center">
   <img src="TIP_Logo_Square.jpg" width="150" alt="TIP Logo">
   
   <p><h1>The NSAI Guide:<br>Non-Stochastic AI Architecture and Execution</h1></p>
@@ -121,7 +126,7 @@ External technical reviews, architectural deep-dives, and community-driven discu
 
 > **Founder & Principal AI Architect:** Joshua St. Germain  
 > **Enterprise Governance & IP Incubator:** TheImmortalPython Labs ([theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me))  
-> **Repositories:** `pklm-core` (Private) | [pklm-sandbox](https://github.com/TheImmortalPython/pklm-sandbox) | `determinism-runtime-core` (Private) | `the-nsai-guide`
+> **Repositories:** [immortal-inference](https://github.com/TheImmortalPython/immortal-inference) | `the-nsai-guide`
 
 ---
 
