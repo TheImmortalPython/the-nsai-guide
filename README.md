@@ -47,7 +47,7 @@ This repository provides a comprehensive, production-grade educational architect
   * Contextual, Instrumental & Boundary Constraints
   * The Bridge to Runtime Execution
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
-  * Pāṇinian Kāraka Logit Masking (PKLM Core / pklm-core)
+  * Pāṇinian Kāraka Logit Masking
     * Negative Infinity ($-\infty$) Vector Boundaries
   * Deterministic Agent Architecture & Intent Routing
     * Hybrid Execution: Dynamic Switching (Probabilistic Ideation vs. PKLM Masking)
