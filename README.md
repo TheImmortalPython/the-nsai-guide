@@ -1,6 +1,4 @@
-<div align="center">
-⚠️ Notice: This repository is currently undergoing active updates. Content, code, or documentation may be temporarily inaccurate, incomplete, or subject to sudden changes.
-</div>
+> ⚠️ **Repository Transition Notice:** This guide is currently in transition. Previously acting as the public specification layer while core runtime engines and academic frameworks remained private, this repository will undergo a complete ground-up rewrite to reflect the fully open Non-Stochastic AI stack.
 <br>
 
 <div align="center">
