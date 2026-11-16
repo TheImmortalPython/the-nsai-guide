@@ -3,7 +3,7 @@
 # Module 5: NSAI Tooling & Hardware
 
 ## 5.1 Verification Middleware ([`pklm-sandbox`](https://github.com/TheImmortalPython/pklm-sandbox))
-To test, verify, and experiment with non-stochastic constraints safely, the **`pklm-sandbox`** repository serves as the middleware and sandbox verification ecosystem. It provides an accessible open-source sandbox featuring lightweight Hugging Face logits processing and zero-drift linguistic containment implementation patterns.
+To test, verify, and experiment with non-stochastic constraints safely, the `pklm-sandbox` repository serves as the middleware and sandbox verification ecosystem. It provides an accessible open-source sandbox featuring lightweight Hugging Face logits processing and zero-drift linguistic containment implementation patterns.
 
 ### 5.1.1 Repository Installation & Integration
 To integrate the sandbox processor into local pipelines, agent frameworks, or edge applications, `pklm-sandbox` supports direct source installation:
