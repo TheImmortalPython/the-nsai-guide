@@ -120,7 +120,7 @@ External technical reviews, architectural deep-dives, and community-driven discu
 
 > **Founder & Principal AI Architect:** Joshua St. Germain  
 > **Enterprise Governance & IP Incubator:** TheImmortalPython Labs ([theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me))  
-> **Repositories:** [immortal-inference](https://github.com/TheImmortalPython/immortal-inference) | `the-nsai-guide`
+> **Repositories:** [`immortal-inference`](https://github.com/TheImmortalPython/immortal-inference) | `the-nsai-guide`
 
 ---
 
