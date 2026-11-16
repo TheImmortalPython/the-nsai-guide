@@ -45,12 +45,12 @@ This repository provides a comprehensive, production-grade educational architect
   * Pāṇinian Kāraka Dependency Frameworks & Lattices
   * The Bridge to Runtime Execution
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
-  * Pāṇinian Kāraka Logit Masking
+  * Pāṇinian Kāraka Logit Masking (`immortal-inference`)
     * Negative Infinity ($-\infty$) Vector Boundaries
   * Deterministic Agent Architecture & Intent Routing
-    * Hybrid Execution: Dynamic Switching (Probabilistic Ideation vs. PKLM Masking)
-    * Pre-Emission Verification Loops: Under-the-Hood Candidate Validation & Zero-Drift Emission
-  * Production Orchestration & Execution Core
+    * Hybrid Execution: Dynamic Switching
+    * Pre-Emission Verification Loops
+  * Production Orchestration & Execution Architecture
   * Runtime Execution Contracts
 - **Module 5: NSAI Tooling & Hardware**
   * Verification Middleware (pklm-sandbox)
