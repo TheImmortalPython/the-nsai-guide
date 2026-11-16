@@ -43,8 +43,6 @@ This repository provides a comprehensive, production-grade educational architect
   * Dynamic Finite State Machine Logit Geometry
 - **Module 3: Grammatical Dependency Lattices**
   * Pāṇinian Kāraka Dependency Frameworks & Lattices
-  * Agent & Goal Mapping Mechanics
-  * Contextual, Instrumental & Boundary Constraints
   * The Bridge to Runtime Execution
 - **Module 4: Runtime Core, Compiler & Consensus Layer**
   * Pāṇinian Kāraka Logit Masking
