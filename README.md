@@ -103,14 +103,6 @@ python playground/module_5_demo.py
 
 ---
 
-## Developer Adoption & Repository Traction
-
-Active developer clone velocity and unique cloner engagement across `the-nsai-guide` as of **November 3, 2026**:
-
-![Developer Adoption & Repository Traction](docs/metrics/git-clones-2026-11-03.png)
-
----
-
 ## Community Feedback & Architectural Reviews
 External technical reviews, architectural deep-dives, and community-driven discussions regarding the guide are archived in our [Community Feedback Directory](./community-feedback/README.md).
 
